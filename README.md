@@ -1,6 +1,6 @@
 # MGCU_Templet
 Mahatma Gandhi Central University (MGCU),BIHAR Dissertation Templet.
-
+_______________________________________________________________________________________________________________________
 
 
 Note:-install Mektex and auto update enable.
