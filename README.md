@@ -1,5 +1,12 @@
 # MGCU_Templet
 Mahatma Gandhi Central University (MGCU),BIHAR Dissertation Templet.
+
+______________________________________________________________________________________________________________
+
+
+
+Formet https://github.com/subh700/MGCU_Templet/blob/main/main.pdf
+
 _______________________________________________________________________________________________________________________
 
 https://miktex.org/
