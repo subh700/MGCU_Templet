@@ -1,5 +1,8 @@
 # MGCU_Templet
 Mahatma Gandhi Central University (MGCU),BIHAR Dissertation Templet.
+
+
+
 Note:-install Mektex and auto update enable.
 Note:- main file run on LuaLatax+MakeIndex+BibTex compiler. so change defoult compiler into LuaLatax+MakeIndex+BibTex
 
