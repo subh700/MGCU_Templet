@@ -2,11 +2,12 @@
 Mahatma Gandhi Central University (MGCU),BIHAR Dissertation Templet.
 _______________________________________________________________________________________________________________________
 
-
+https://miktex.org/
 Note:-install Mektex and auto update enable.
+____________________________________________________________________________________________________________________
 Note:- main file run on LuaLatax+MakeIndex+BibTex compiler. so change defoult compiler into LuaLatax+MakeIndex+BibTex
 
-
+______________________________________________________________________________________________________________________
 step 1 - install Noto Serif Devanagari font in computer (https://fonts.google.com/noto/specimen/Noto+Serif+Devanagari).
 step 2 - edit edit.sty file according to instractions.
 step 3- enable and disale all pages and chapters in main.tex
@@ -48,6 +49,7 @@ s.no.           name of pages           page fullname with path
 6.              publication             page/publication.tex
 
 
-
+__________________________________________________________________________________________________________________
 Note:- all chapters(c1,c2,c3,c4,c5 and c6) in chapters folder to edit and style by user. fully  control by User.
+_________________________________________________________________________________________________________________
 Note : - refrences and bibligoraphy use Bibliography.bib and cite oin cantent.
