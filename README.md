@@ -63,4 +63,4 @@ Note: - references and bibliography use Bibliography.bib and cite oin content.
 
 
 ## Important
-main.tex run with only "LuaLaTeX+MakeIndex+BiBTex" compiler .
+main.tex run with only "LuaLaTeX+MakeIndex+BiBTex" compiler.
